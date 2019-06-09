@@ -2,9 +2,13 @@
 
 Clothing store website
 
+Good for mobile devices ;)
+
+But bad for IE.... 
 
 ## Used technologies 
 
+* Gulp
 * Jade (pug)
 * Less
 * JavaScript (then rewrote everything with jQuery)
